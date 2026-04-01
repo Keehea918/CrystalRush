@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-## 🛠 Get Start**
+## 🛠 Get Start
 > [!TIP]
 > ⚡️ This script is very simple to install
 > ```bush
