@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://eu-central.storage.cloudconvert.com/tasks/18a9484c-9945-4908-8128-0bbb09df14cf/AEB8E2D3-381A-4FD4-8C67-AF11CF6A280F.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20260401%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20260401T145025Z&X-Amz-Expires=86400&X-Amz-Signature=664831531dbb44562e8313064e2c800989a2a6808f1513e96171a555ff7a5f00&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22AEB8E2D3-381A-4FD4-8C67-AF11CF6A280F.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject" width=128 />
+      <img width="150" height="150" alt="370EF15F-F32D-45B6-B879-BDD9B3200B0D" src="https://github.com/user-attachments/assets/8f7d9482-a54b-4389-95c8-26b017e46c6f" />
     </td>
     <td>
       <b>840Hz Script - Click Crystal (CC)</b>
@@ -21,9 +21,9 @@
 ## Changelog
 
 ```yml
-Release 1.0.1
+Release: 1.0.1
 
-Modules
+Modules:
 - Fast Crystal
 - Auto Hit Crystal
 - Toggle Pearl
