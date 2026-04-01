@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "main" ]
     paths: 
-      - '.github/workflows/build.lua'
+      - '.github/workflows/nightly-build.ccs'
   workflow_dispatch:
 
 permissions:
@@ -18,11 +18,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: List build.lua
-        run: ls -l .github/workflows/build.lua
+      - name: List nightly-build.ccs
+        run: ls -l .github/workflows/nightly-build.ccs
 
-      - name: Upload build.lua
+      - name: Upload nightly-build.ccs
         uses: actions/upload-artifact@v4
         with:
-          name: Development-Build
-          path: .github/workflows/build.lua
+          name: Nightly-Build
+          path: .github/workflows/nightly-build.ccs
