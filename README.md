@@ -21,7 +21,7 @@
 > ```
 
 **[📥 Download Click Crystal Mod 💎](https://github.com/clickcrystals-development/ClickCrystals)**   
-**[📥 Download My Script 📃](https://github.com/Keehea918/840Script/releases)**
+**[📥 Download My Script 📃](https://github.com/Keehea918/CrystalRush/releases)**
 
 ## 📜 Changelog 
 
