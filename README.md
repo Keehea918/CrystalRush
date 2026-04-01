@@ -8,7 +8,7 @@
     <td>
       <b>CrystalRush - ClickCrystal (CC)</b>
       <p> This project was created to share open-source scripts related to Click Crystal (CC)</p>
-      <p>Owner by @keehea918</p>
+      <p>Owner by @Keehea918</p>
     </td>
   </tr>
 </table>
