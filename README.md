@@ -20,7 +20,7 @@
 > .minecraft/.clickcrystal/scripts
 > ```
 
-**[📥 Download Click Crystal Mod 💎](https://github.com/clickcrystals-development/ClickCrystals)**   
+**[📥 Download ClickCrystal Mod 💎](https://github.com/clickcrystals-development/ClickCrystals)**   
 **[📥 Download My Script 📃](https://github.com/Keehea918/CrystalRush/releases)**
 
 ## 📜 Changelog 
