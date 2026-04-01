@@ -1,4 +1,4 @@
-# 840Hz - Script (CC)
+# 🌊 CrystalRush
 
 <table>
   <tr>
@@ -6,7 +6,7 @@
       <img width="150" height="150" alt="370EF15F-F32D-45B6-B879-BDD9B3200B0D" src="https://github.com/user-attachments/assets/8f7d9482-a54b-4389-95c8-26b017e46c6f" />
     </td>
     <td>
-      <b>840Hz Script - Click Crystal (CC)</b>
+      <b>CrystalRuch - Click Crystal (CC)</b>
       <p> This project was created to share open-source scripts related to Click Crystal (CC)</p>
       <p>Developed by keehea918</p>
     </td>
