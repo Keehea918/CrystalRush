@@ -55,4 +55,4 @@ I’m not sure if other versions are supported.
 
 **GitHub**    
 **[🔮 CrystalRush](https://github.com/Keehea918/CrystalRush)**    
-**[🥕 CarrotClient](https://github.com/li1Carr0t/Carrot)**
+**[🥕 Carrot](https://github.com/li1Carr0t/Carrot)**
