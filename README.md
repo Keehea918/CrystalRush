@@ -16,7 +16,7 @@
 ## 🛠 Get Start**
 
 **[📥 Download Click Crystal Mod 💎](https://github.com/clickcrystals-development/ClickCrystals)**   
-**[📥 Download My Script 📃](https://github.com/CCConfig/releases/tag/1.0.1)**
+**[📥 Download My Script 📃](https://github.com/CCConfig/releases)**
 
 ## Changelog
 
