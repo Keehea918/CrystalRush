@@ -45,10 +45,7 @@ I’m not sure if other versions are supported.
 Nightly Build: #5
 
 Module:
-- Toggle Anchor
-
-Log:
-Fix Description and make it very faster 0.05 > 0.04
+- Toggle Totem (Automatically replenishes your totems in your inventory)
 
 Note:
 ClickCrystal 1.21.5 (1.3.2)
