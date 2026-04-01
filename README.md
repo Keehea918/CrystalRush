@@ -33,6 +33,11 @@ Modules:
 - Auto Hit Crystal
 - Toggle Pearl
 - Toggle Anchor
+
+Note:
+ClickCrystal 1.21.5 (1.3.2)
+I’m not sure if other versions are supported.
+- keehea918
 ```
 
 ## ⚙️ Modules
