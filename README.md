@@ -54,5 +54,5 @@ I’m not sure if other versions are supported.
 `Develoepr : @840.0hz`    
 
 **GitHub**    
-**[🔮 CrystalRush](https://github.com/keehea918/CrystalRush)**    
-**[🥕 CarrotClient](https://github.com/li1Carr0t/CarrotClient)**
+**[🔮 CrystalRush](https://github.com/Keehea918/CrystalRush)**    
+**[🥕 CarrotClient](https://github.com/li1Carr0t/Carrot)**
